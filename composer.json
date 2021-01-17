@@ -1,0 +1,22 @@
+{
+  "name": "vendor_name/template-adm",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jota",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Adm\\": "app/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*",
+    "twig/twig": "^3.0",
+    "coffeecode/router": "^1.0.0"
+  }
+}

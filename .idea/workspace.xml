@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed8ad3ca-a462-4874-8bf2-7aa8b462e4eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1nCZftB2R8ZsNOZNDOwB9eVzQ34" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/template" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/views/originals-views" />
+      <recent name="$PROJECT_DIR$/app/Infra" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/template" />
+      <recent name="$PROJECT_DIR$/assets/css" />
+      <recent name="$PROJECT_DIR$/assets/imagens" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed8ad3ca-a462-4874-8bf2-7aa8b462e4eb" name="Default Changelist" comment="" />
+      <created>1610896141503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610896141503</updated>
+      <workItem from="1610896143829" duration="9329000" />
+      <workItem from="1610910865217" duration="2268000" />
+      <workItem from="1610916119224" duration="710000" />
+      <workItem from="1610923724789" duration="1548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1865" y="168" width="505" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610902047203">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1865" y="168" width="505" height="384" key="#com.intellij.fileTypes.FileTypeChooser/1440.0.1366.768/0.0.1440.728@1440.0.1366.768" timestamp="1610902047203" />
+    <state x="1856" y="113" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610902149980">
+      <screen x="1440" y="0" width="1366" height="768" />
+    </state>
+    <state x="1856" y="113" width="524" height="494" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.0.1366.768/0.0.1440.728@1440.0.1366.768" timestamp="1610902149980" />
+    <state x="-1328" y="-49" width="562" height="536" key="NewPhpClassDialog" timestamp="1610924897394">
+      <screen x="-1920" y="-174" width="1920" height="1040" />
+    </state>
+    <state x="-1328" y="-49" key="NewPhpClassDialog/0.0.1366.728/-1920.-174.1920.1040@-1920.-174.1920.1040" timestamp="1610924897394" />
+    <state x="1861" y="92" width="562" height="536" key="NewPhpClassDialog/1440.0.1366.768/0.0.1440.728@1440.0.1366.768" timestamp="1610903390851" />
+    <state x="-1216" y="217" width="354" height="147" key="NewPhpFileDialog" timestamp="1610924641293">
+      <screen x="-1920" y="-174" width="1920" height="1040" />
+    </state>
+    <state x="-1216" y="217" key="NewPhpFileDialog/0.0.1366.728/-1920.-174.1920.1040@-1920.-174.1920.1040" timestamp="1610924641293" />
+    <state x="1941" y="289" width="354" height="147" key="NewPhpFileDialog/1440.0.1366.768/0.0.1440.728@1440.0.1366.768" timestamp="1610904153898" />
+  </component>
+</project>
